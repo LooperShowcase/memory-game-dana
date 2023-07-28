@@ -1,0 +1,38 @@
+[
+    {
+        "image": "assets/cindrella.jpeg",
+        "name": "cindrella"
+    },
+    {
+        "image": "assets/mouse.jpg",
+        "name": "mouse"
+    },
+    {
+        "image": "assets/aurora.jpeg",
+        "name": "aurora"
+    },
+    {
+        "image": "assets/yasmena.jpg",
+        "name": "yasmena"
+    },
+    {
+        "image": "assets/repunzel.jpg",
+        "name": "repunzel"
+    },
+    {
+        "image": "assets/mulan.jpg",
+        "name": "mulan"
+    },
+    {
+        "image": "assets/frozen.jpg",
+        "name": "frozen"
+    },
+    {
+        "image": "assets/elena.jpg",
+        "name": "elena"
+    },
+    {
+        "image": "assets/moana.jpg",
+        "name": "=moana"
+    }
+]
